@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#myvideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+.header {
+  position: fixed;
+  background: rgb(253, 250, 250);
+  border: 2px solid black;
+  margin-left: 1085px;
+
+  text-align: center;
+  padding: 20px;
+
+  color: rgb(13, 9, 9);
+  height: 3000px;
+  width: 400px;
+}
+
+.container {
+  font-size: 30px;
+}
+.content1 {
+  cursor: pointer;
+  margin-top: 80px;
+}
+.content {
+  margin-top: 20px;
+  cursor: pointer;
+}
+.content2 {
+  margin-top: 70px;
+  cursor: pointer;
+}
+.container img {
+  height: 45px;
+  width: 45px;
+  cursor: pointer;
+}
